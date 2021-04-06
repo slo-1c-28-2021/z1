@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset="iso-8859-2">
+<title>Wakacje w Zakopanym 2017</title>
+</head>
+<body>
+<center><img src = "tytul.jpg" /><center>
+
+<span style="color: green">
+
+<h2><b>Zakopane</b> - Największa miejscowość w bezpośrednim otoczeniu Tatr, duży ośrodek sportów zimowych, potocznie nazywany zimową stolicą Polski.<h2>
+
+<a href="inff1"><img src="ścieżka dostępu do obrazka" > </a>
+<a href="inff2"><img src="ścieżka dostępu do obrazka" > </a>
+<a href="inff3"><img src="ścieżka dostępu do obrazka" > </a>
+<a href="inff4"><img src="ścieżka dostępu do obrazka" > </a>
+<a href="inff5"><img src="ścieżka dostępu do obrazka" > </a>
+<a href="inff6"><img src="ścieżka dostępu do obrazka" > </a>
+<a href="inff7"><img src="ścieżka dostępu do obrazka" > </a>
+<a href="inff8"><img src="ścieżka dostępu do obrazka" > </a>
+<a href="inff9"><img src="ścieżka dostępu do obrazka" > </a>
+<a href="inff10"><img src="ścieżka dostępu do obrazka"> </a>
+
+<h2>
+<div style="float: right; width: 1500px;">
+<marquee direction="left" behavior="alternate"><marquee direction="up" behavior="alternate" height="128" >Wakacje</marquee></marquee>
+<marquee direction="left" behavior="alternate"><marquee direction="up" behavior="alternate" height="128" >Zakopane</marquee></marquee>
+<marquee direction="left" behavior="alternate"><marquee direction="up" behavior="alternate" height="128" >2017</marquee></marquee>
+</div>
+</h2>
+</span>
+</body>
+</html>
